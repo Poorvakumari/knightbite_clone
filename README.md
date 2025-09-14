@@ -22,4 +22,4 @@ knightbite/
 Open `index.html` in your browser.
 
 ## 📸 Preview
-![Knightbite clone] https://poorvakumari.github.io/frozen_yogurt_shop/
+![Knightbite clone] https://poorvakumari.github.io/knightbite_clone/
